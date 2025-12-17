@@ -74,9 +74,10 @@ Setup Instructions:
 
 Alternatively, use the blinkit.pbit template file to connect your own data source while preserving the dashboard structure and calculations.
 
+
 ## Dashboard Preview
 
-![Blinkit Sales Dashboard](dashboard.png)
+![Blinkit Sales Dashboard](https://github.com/rkaurda-dotcom/blinkit/blob/main/blinkit.png)
 
 ## About
 
