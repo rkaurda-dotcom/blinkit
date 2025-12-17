@@ -85,6 +85,3 @@ Created by: Ravneet Kaur
 Role: Data Analyst | Power BI Specialist  
 Focus: Building analytical solutions for retail and business intelligence
 
----
-
-This project was developed to demonstrate proficiency in Power BI development, data modeling, DAX, and retail analytics through hands-on practice with a real-world scenario.
